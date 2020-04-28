@@ -6,7 +6,7 @@ namespace teste_git {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Boa noite");
 
-            Console.WriteLine("Trabalho hoje é demais");
+            Console.WriteLine("have a nice day");
         }
     }
 }
