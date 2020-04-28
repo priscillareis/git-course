@@ -5,6 +5,8 @@ namespace teste_git {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Boa noite");
+
+            Console.WriteLine("Trabalho hoje é demais");
         }
     }
 }
